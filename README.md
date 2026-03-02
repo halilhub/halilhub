@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">selam ben halil</h1>
-<h3 align="center">full stack developerim</h3>
+<h3 align="center">Full stack developer’ım.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
